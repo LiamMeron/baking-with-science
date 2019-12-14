@@ -1,0 +1,282 @@
+Modifier[s]|Ingredient|Volume (cups)|Ounces|Grams
+|All-Purpose Flour|1.00|4.25|120
+|Almond Flour|1.00|3.00|86
+|Almond meal|1.00|3.00|84
+packed|Almond paste|1.00|9.12|259
+sliced|Almonds|0.50|1.50|43
+slivered|Almonds|0.50|2.00|57
+unblanched|Almonds, whole|1.00|5.00|142
+|Amaranth flour|1.00|3.62|103
+dried|Apples|1.00|3.00|85
+diced|Apples|1.00|3.00|85
+peeled|Apples|1.00|4.00|113
+sliced|Apples|1.00|4.00|113
+|Applesauce|1.00|9.00|255
+dried|Apricots|0.50|2.25|64
+diced|Apricots|0.50|2.25|64
+|Artisan Bread Flour|1.00|4.25|120
+|Baker's Cinnamon Filling|1.00|5.38|152
+|Baker's Fruit Blend|1.00|4.50|128
+superfine sugar|Baker's Special Sugar|1.00|6.75|190
+castor sugar|Baker's Special Sugar|1.00|6.75|190
+|Baking powder|0.02||4
+|Baking soda|0.01||3
+mashed|Bananas|1.00|8.00|227
+cooked|Barley|1.00|7.62|215
+pearled|Barley|1.00|7.50|213
+|Barley flakes|0.50|1.62|46
+|Barley flour|1.00|3.00|85
+|Basil pesto|0.12|1.00|28
+fresh|Bell peppers|1.00|5.00|142
+frozen|Berries|1.00|5.00|142
+dried|Blueberries|1.00|5.50|156
+fresh|Blueberries|1.00|6.00|170
+|Blueberry juice|1.00|8.50|241
+|Boiled cider|0.25|3.00|85
+|Bran cereal|1.00|2.12|60
+dried|Bread crumbs|0.25|1.00|28
+fresh|Bread crumbs|0.25|0.75|21
+Japanese Panko|Bread crumbs|0.25|1.75|50
+|Bread Flour|1.00|4.25|120
+cooked|Brown rice|1.00|6.00|170
+|Brown rice flour|1.00|4.50|128
+dark light|Brown sugar|1.00|7.50|213
+packed|Brown sugar|1.00|7.50|213
+whole|Buckwheat|1.00|6.00|170
+|Buckwheat Flour|1.00|4.25|120
+|Bulgur|1.00|5.38|152
+|Butter|0.50|4.00|113
+|Buttermilk|1.00|8.00|227
+|Cake Enhancer|0.12|0.50|14
+|Candied peel|0.50|3.00|85
+14-16 individual pieces|Caramel|0.50|5.00|142
+1" squares|Caramel|0.50|5.00|142
+chopped Heath toffee|Caramel bits|1.00|5.50|156
+|Caraway seeds|0.12|0.62|18
+cooked and puréed|Carrots|0.50|4.50|128
+diced|Carrots|1.00|5.00|142
+grated|Carrots|1.00|3.50|99
+chopped|Cashews|1.00|4.00|113
+whole|Cashews|1.00|4.00|113
+diced|Celery|1.00|5.00|142
+Feta|Cheese|0.50|2.00|57
+grated cheddar|Cheese|1.00|4.00|113
+jack|Cheese|1.00|4.00|113
+mozzarella|Cheese|1.00|4.00|113
+Swiss|Cheese|1.00|4.00|113
+grated Parmesan|Cheese|0.50|1.75|50
+Ricotta|Cheese|1.00|8.00|227
+candied|Cherries|0.25|1.75|50
+dried|Cherries|0.50|2.50|71
+frozen|Cherries|1.00|4.00|113
+|Chickpea flour|1.00|3.00|85
+fresh|Chives|0.50|0.75|21
+chopped|Chocolate|1.00|6.00|170
+|Chocolate chips|1.00|6.00|170
+|Cinnamon Sweet Bits|1.00|5.00|140
+|Cinnamon-sugar|0.25|1.75|50
+unsweetened|Cocoa|0.50|1.50|42
+sweetened|Coconut|1.00|3.00|85
+shredded|Coconut|1.00|3.00|85
+unsweetened|Coconut|1.00|2.12|60
+large flakes|Coconut|1.00|2.12|60
+unsweetened|Coconut|1.00|4.00|113
+shredded|Coconut|1.00|4.00|113
+|Coconut Flour|1.00|4.50|128
+|Coconut Milk Powder|0.50|2.00|57
+|Coconut oil|0.50|4.00|113
+unsifted|Confectioners' sugar|2.00|8.00|227
+|Cookie crumbs|1.00|3.00|85
+popped|Corn|4.00|0.75|21
+|Corn syrup|1.00|11.00|312
+whole|Cornmeal|1.00|4.88|138
+yellow|Cornmeal|1.00|5.50|156
+Quaker|Cornmeal|1.00|5.50|156
+|Cornstarch|0.25|1.00|28
+|Cracked wheat|1.00|5.25|149
+dried|Cranberries|0.50|2.00|57
+fresh frozen|Cranberries|1.00|3.50|99
+heavy cream|Cream|1.00|8.00|227
+light cream|Cream|1.00|8.00|227
+half & half|Cream|1.00|8.00|227
+|Cream cheese|1.00|8.00|227
+|Crystallized ginger|0.50|3.25|92
+|Currants|1.00|5.00|142
+chopped|Dates|1.00|5.25|149
+|Demerara sugar|1.00|7.75|220
+|Dried Blueberry Powder|0.25|1.00|28
+|Dried Buttermilk Powder|0.12|0.88|25
+Baker's Special Dry Milk|Dried milk|0.25|1.25|35
+powdered|Dried nonfat milk|0.25|0.75|21
+instant mashed potatoes|Dried potato flakes|0.50|1.50|43
+powdered|Dried whole milk|0.50|1.75|50
+|Durum Flour|1.00|4.38|124
+|Easy Roll Dough Improver|0.12|0.62|18
+fresh|Egg|1 large|1.75|50
+fresh|Egg white|1 large|1.25|35
+dried|Egg whites|0.12|0.38|11
+fresh|Egg yolk|1 large|0.50|14
+|Espresso Powder|0.06|0.25|7
+dried|Figs|1.00|5.25|149
+chopped|Figs|1.00|5.25|149
+|First Clear Flour|1.00|3.75|106
+|Flax meal|0.50|1.75|50
+|Flaxseed|0.25|1.25|35
+|French-Style Flour|1.00|4.25|120
+|Fruitcake Fruit Blend|1.00|4.25|120
+cloves|Garlic|1 large head|4.00|113
+in skin for roasting|Garlic|1 large head|4.00|113
+minced|Garlic|0.12|1.00|28
+peeled and sliced|Garlic|1.00|5.25|149
+fresh|Ginger|0.25|2.00|57
+sliced|Ginger|0.25|2.00|57
+|Gluten-Free All-Purpose Baking Mix|1.00|4.25|120
+|Gluten-Free All-Purpose Flour|1.00|5.50|156
+|Gluten-Free Measure for Measure Flour|1.00|4.25|120
+boxed|Graham cracker crumbs|1.00|3.50|99
+crushed|Graham crackers|1.00|5.00|142
+|Granola|1.00|4.00|113
+|Grape Nuts|0.50|2.00|57
+|Harvest Grains Blend|0.50|2.62|74
+|Hazelnut flour|1.00|3.12|89
+|Hazelnut Praline Paste|0.50|5.50|156
+|Hazelnut spread|0.50|5.62|160
+whole|Hazelnuts|1.00|5.00|142
+|Hi-Maize Natural Fiber|0.25|1.12|32
+|High-Gluten Flour|1.00|4.25|120
+|Honey|0.06|0.75|21
+|Instant ClearJel|0.06|0.38|11
+|Irish-Style Flour|1.00|3.88|110
+|Italian-Style Flour|1.00|3.75|106
+|Jam or preserves|0.25|3.00|85
+|Jammy Bits|1.00|6.50|184
+|Key Lime Juice|1.00|8.00|227
+|Lard|0.50|4.00|113
+diced|Leeks|1.00|3.25|92
+|Lemon Juice Powder|0.12|0.62|18
+|Lime Juice Powder|0.12|0.62|18
+whole|Macadamia nuts|1.00|5.25|149
+|Malt syrup|0.12|1.50|43
+|Malted Milk Powder|0.25|1.25|35
+|Malted Wheat Flakes|0.50|2.25|64
+|Maple sugar|0.50|2.75|78
+|Maple syrup|0.50|5.50|156
+|Marshmallow crème|1.00|3.00|85
+|Marshmallow Fluff®|1.00|4.50|128
+mini|Marshmallows|1.00|1.50|43
+|Marzipan|1.00|10.12|290
+|Mashed potatoes|1.00|7.50|213
+|Mayonnaise|0.50|4.00|113
+|Meringue powder|0.25|1.50|43
+evaporated|Milk|0.50|4.00|113
+fresh|Milk|1.00|8.00|227
+whole|Millet|0.50|3.62|103
+|Mini chocolate chips|1.00|6.25|177
+|Molasses|0.25|3.00|85
+sliced|Mushrooms|1.00|2.75|78
+|Non-Diastatic Malt Powder|0.12|0.62|18
+|Oat bran|0.50|1.88|53
+|Oat flour|1.00|3.25|92
+rolled oats|Old-fashioned oats|1.00|3.50|99
+|Olive oil|0.25|1.75|50
+sliced|Olives|1.00|5.00|142
+fresh|Onions|1.00|5.00|142
+diced|Onions|1.00|5.00|142
+|Paleo Baking Flour|1.00|3.62|104
+|Pasta Flour Blend|1.00|5.12|145
+|Pastry Flour|1.00|3.75|106
+|Pastry Flour Blend|1.00|4.00|113
+peeled and diced|Peaches|1.00|6.00|170
+|Peanut butter|0.50|4.75|135
+whole|Peanuts|1.00|5.00|142
+shelled|Peanuts|1.00|5.00|142
+peeled and diced|Pears|1.00|5.75|163
+|Pecan Meal|1.00|2.75|80
+diced|Pecans|0.50|2.00|57
+|Pie Filling Enhancer|0.25|1.62|46
+|Pine nuts|0.50|2.50|71
+dried|Pineapple|0.50|2.50|71
+fresh canned|Pineapple|1.00|6.00|170
+diced|Pineapple|1.00|6.00|170
+|Pistachio nuts|0.50|2.12|60
+|Pistachio Paste|0.25|2.75|78
+|Pizza Flour Blend|1.00|4.38|124
+coarse ground cornmeal|Polenta|1.00|5.75|163
+|Poppy seeds|0.12|0.62|18
+|Potato Flour|0.25|1.62|46
+|Potato starch|1.00|5.38|152
+|Pumpernickel Flour|1.00|3.75|106
+canned|Pumpkin|1.00|8.00|227
+|Quick cooking oats|1.00|3.12|89
+cooked|Quinoa|1.00|6.50|184
+whole|Quinoa|1.00|6.25|177
+|Quinoa flour|1.00|3.88|110
+loose|Raisins|1.00|5.25|149
+packed|Raisins|0.50|3.00|85
+fresh|Raspberries|1.00|4.25|120
+sliced|Rhubarb|1.00|4.25|120
+1/2" slices|Rhubarb|1.00|4.25|120
+long grain|Rice|0.50|3.50|99
+dry|Rice|0.50|3.50|99
+white|Rice flour|1.00|5.00|142
+|Rice Krispies|1.00|1.00|28
+|Rye Chops|1.00|4.25|120
+|Rye flakes|1.00|4.38|124
+|Rye Flour|1.00|3.62|103
+|Rye Flour Blend|1.00|3.75|106
+Kosher|Salt|0.06||8
+Diamond Crystal|Salt|0.06||8
+Kosher|Salt|0.06||16
+Morton's|Salt|0.06||16
+table|Salt|0.06||18
+sliced|Scallions|1.00|2.25|64
+|Self-Rising Flour|1.00|4.00|113
+|Semolina Flour|1.00|5.75|163
+|Sesame seeds|0.50|2.50|71
+peeled and sliced|Shallots|1.00|5.50|156
+|Six-Grain Blend|1.00|4.50|128
+|Sorghum flour|1.00|4.88|138
+|Sour cream|1.00|8.00|227
+|Sourdough starter|1.00|8.25|227 to 241
+|Soy flour|0.25|1.25|35
+|Spelt Flour|1.00|3.50|99
+|Sprouted Wheat Flour|1.00|4.00|113
+cooked|Steel cut oats|1.00|9.00|255
+raw|Steel cut oats|0.50|2.88|99
+|Sticky Bun Sugar|1.00|3.50|99
+fresh sliced|Strawberries|1.00|5.88|167
+granulated white|Sugar|1.00|7.00|198
+Splenda|Sugar substitute|1.00|0.88|25
+dry pack|Sundried tomatoes|1.00|6.00|170
+|Sunflower seeds|0.25|1.25|35
+|Super 10 Blend|1.00|3.75|106
+|Sweetened condensed milk|0.25|2.75|78
+|Tahini paste|0.50|4.50|128
+|Tapicoa starch or flour|1.00|4.00|113
+quick cooking|Tapioca|0.12|0.75|21
+|Teff flour|1.00|4.75|135
+|Toasted Almond Flour|1.00|3.38|96
+|Toffee chunks|1.00|5.50|156
+|Tropical Fruit Blend|1.00|4.75|128 to 142
+raw|Turbinado sugar|1.00|6.38|180
+|Unbleached Cake Flour|1.00|4.25|120
+|Vanilla extract |0.06|0.50|14
+|Vegetable oil|1.00|7.00|198
+|Vegetable shortening|0.25|1.62|46
+|Vermont Cheese Powder|0.50|2.00|57
+|Vital Wheat Gluten|0.12|0.62|18
+chopped|Walnuts|1.00|4.00|113
+whole|Walnuts|0.50|2.25|64
+|Water|1.00|8.00|227
+red|Wheat berries|1.00|6.50|184
+|Wheat bran|0.50|1.12|32
+|Wheat germ|0.25|1.00|28
+|White Chocolate Chips|1.00|6.00|170
+|White Rye Flour|1.00|3.75|106
+|White Whole Wheat Flour|1.00|4.00|113
+|Whole Grain Flour Blend|1.00|4.00|113
+Premium 100%|Whole Wheat Flour|1.00|4.00|113
+|Whole Wheat Pastry Flour / Graham Flour|1.00|3.38|96
+instant|Yeast|0.05|0.25|7
+|Yogurt|1.00|8.00|227
+shredded|Zucchini|1.00|5.50|142 to 170
