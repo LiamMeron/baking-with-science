@@ -138,4 +138,4 @@ if __name__ == "__main__":
     table = loadTableIntoMemory('https://www.kingarthurflour.com/learn/ingredient-weight-chart')
     table = formatTable(table)
     # printTable(table)
-    tableToCSV(table, "csv.txt")
+    tableToCSV(table, "database.csv")
