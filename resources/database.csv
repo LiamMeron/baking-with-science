@@ -19,8 +19,8 @@ diced|Apricots|0.50|2.25|64.00
 |Baker's Fruit Blend|1.00|4.50|128.00
 superfine sugar|Baker's Special Sugar|1.00|6.75|190.00
 castor sugar|Baker's Special Sugar|1.00|6.75|190.00
-|Baking powder|0.02||4.00
-|Baking soda|0.01||3.00
+|Baking powder|0.02|0|4.00
+|Baking soda|0.01|0|3.00
 mashed|Bananas|1.00|8.00|227.00
 cooked|Barley|1.00|7.62|215.00
 pearled|Barley|1.00|7.50|213.00
@@ -224,11 +224,11 @@ white|Rice flour|1.00|5.00|142.00
 |Rye flakes|1.00|4.38|124.00
 |Rye Flour|1.00|3.62|103.00
 |Rye Flour Blend|1.00|3.75|106.00
-Kosher|Salt|0.06||8.00
-Diamond Crystal|Salt|0.06||8.00
-Kosher|Salt|0.06||16.00
-Morton's|Salt|0.06||16.00
-table|Salt|0.06||18.00
+Kosher|Salt|0.06|0|8.00
+Diamond Crystal|Salt|0.06|0|8.00
+Kosher|Salt|0.06|0|16.00
+Morton's|Salt|0.06|0|16.00
+table|Salt|0.06|0|18.00
 sliced|Scallions|1.00|2.25|64.00
 |Self-Rising Flour|1.00|4.00|113.00
 |Semolina Flour|1.00|5.75|163.00

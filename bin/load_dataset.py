@@ -6,6 +6,7 @@ from ingredient import Ingredient
 
 URL = 'https://www.kingarthurflour.com/learn/ingredient-weight-chart'
 
+
 def print_table(table):
     for row in table:
         print_row(row)
@@ -75,6 +76,7 @@ def load_table_into_memory(url):
             line.append("".join(filter(lambda x: x in string.printable,
                                        td.get_text())))
 
+
         ingredient = line[0]
         cups = convert_to_cup(line[1])
         ounces = format_weight(line[2])
@@ -87,9 +89,6 @@ def load_table_into_memory(url):
     return tableBody
 
 # END load_table_into_memory
-
-
-
 
 
 if __name__ == "__main__":
