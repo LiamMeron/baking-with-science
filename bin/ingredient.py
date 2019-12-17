@@ -18,21 +18,26 @@ class Ingredient(object):
         self.grams = grams
         self.modifiers = modifiers
 
-    # Getter methods
-    def get_ingredient(self):
-        return self.ingredient
+        return_string = ""
+        # if there are at least one modifiers
+        if len(self.modifiers) > 0:
+            for i in range(len(self.modifiers)):
+                return_string += "{0:<25} | {1:<39} | {2:<15} | {3:<6} | {4:<6} |\n".format(
+                    self.modifiers[i],
+                    self.ingredient,
+                    self.units,
+                    self.ounces,
+                    self.grams)
+                return_string += ("-" * (77 + 28))
+                if i < len(self.modifiers) - 1:
+                    return_string += "\n"
 
-    def get_units(self):
-        return self.units
-
-    def get_ounces(self):
-        return self.ounces
-
-    def get_grams(self):
-        return self.grams
-
-    def get_modifiers(self):
-        return self.modifiers
+        else:
+            return_string = ("{0:<25} | {1:<39} | {2:<15} | {3:<6} | {4:<6} |\n".
+                             format("", self.ingredient, self.units,
+                                    self.ounces, self.grams))
+            return_string += ("-" * (77 + 28))
+        print(return_string)
 
     """ String representation of the object
 
@@ -46,6 +51,7 @@ class Ingredient(object):
         ...
         {modifierN} {ingredient} {units} {ounces} {grams}
     """
+
     def __str__(self):
         return_string = ""
         # if there are at least one modifiers

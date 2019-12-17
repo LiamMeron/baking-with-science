@@ -8,17 +8,18 @@ URL = 'https://www.kingarthurflour.com/learn/ingredient-weight-chart'
 
 
 def print_table(table):
+    header = table[0]
+    table.remove(header)
+    print(header)
     for row in table:
         print_row(row)
+    table.insert(0, header)
     return
 
 
 # Format prints each row
 def print_row(row):
-    print(("{0:<25} | {1:<39} | {2:<15} | {3:<6} | {4:<6} |"
-           .format(row[0], row[1], row[2], row[3], row[4])))
-    print("-" * (77 + 28))
-    return
+    row.pretty_print()
 
 
 def load_table_into_memory(url):
@@ -76,7 +77,6 @@ def load_table_into_memory(url):
             line.append("".join(filter(lambda x: x in string.printable,
                                        td.get_text())))
 
-
         ingredient = line[0]
         cups = convert_to_cup(line[1])
         ounces = format_weight(line[2])
@@ -93,5 +93,5 @@ def load_table_into_memory(url):
 
 if __name__ == "__main__":
     table = load_table_into_memory(URL)
-
-    table_to_csv(table, "../resources/database.csv")
+    print_table(table)
+    # table_to_csv(table, "../resources/database.csv")
