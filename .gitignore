@@ -2,3 +2,5 @@
 *.pyc
 bin/__pycache__/ingredient.cpython-37.pyc
 bin/__pycache__/conversion_and_format.cpython-37.pyc
+*.html
+bin/htmlcov/

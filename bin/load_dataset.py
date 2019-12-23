@@ -91,6 +91,18 @@ def load_table_into_memory(url):
 # END load_table_into_memory
 
 
+def table_to_csv(ingredients, outputFile):
+    with open(outputFile, 'w+') as f:
+        header = ingredients.pop(0)
+        f.write("|".join(header))
+        f.write("\n")
+        for i in range(len(ingredients)):
+            f.write("{}".format(ingredients[i].__str__()))
+            if (i < len(ingredients) - 1):
+                f.write("\n")
+# END table_to_csv
+
+
 if __name__ == "__main__":
     table = load_table_into_memory(URL)
     print_table(table)

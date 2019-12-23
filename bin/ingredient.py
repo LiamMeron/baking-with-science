@@ -22,7 +22,8 @@ class Ingredient(object):
         # if there are at least one modifiers
         if len(self.modifiers) > 0:
             for i in range(len(self.modifiers)):
-                return_string += "{0:<25} | {1:<39} | {2:<15} | {3:<6} | {4:<6} |\n".format(
+                return_string += "{0:<25} | {1:<39} "
+                "| {2:<15} | {3:<6} | {4:<6} |\n".format(
                     self.modifiers[i],
                     self.ingredient,
                     self.units,
@@ -33,13 +34,18 @@ class Ingredient(object):
                     return_string += "\n"
 
         else:
-            return_string = ("{0:<25} | {1:<39} | {2:<15} | {3:<6} | {4:<6} |\n".
-                             format("", self.ingredient, self.units,
-                                    self.ounces, self.grams))
+            return_string = ("{0:<25} | {1:<39} | {2:<15}"
+                             " | {3:<6} | {4:<6} |\n".
+                             format("", self.ingredient,
+                                    self.units,
+                                    self.ounces,
+                                    self.grams))
             return_string += ("-" * (77 + 28))
         print(return_string)
+    # END __INIT__
 
-    """ String representation of the object
+    def __str__(self):
+        """ String representation of the object
 
         Prints out a string formatted as:
             "{modifier} {ingredient} {units} {ounces} {grams}"
@@ -51,8 +57,6 @@ class Ingredient(object):
         ...
         {modifierN} {ingredient} {units} {ounces} {grams}
     """
-
-    def __str__(self):
         return_string = ""
         # if there are at least one modifiers
         if len(self.modifiers) > 0:
@@ -69,3 +73,4 @@ class Ingredient(object):
                              format(self.ingredient,
                                     self.units, self.ounces, self.grams))
         return return_string
+    # END __STR__
